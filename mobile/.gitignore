@@ -12,8 +12,6 @@ web-build/
 
 .env
 
-android
-
 # Native
 *.orig.*
 *.jks
